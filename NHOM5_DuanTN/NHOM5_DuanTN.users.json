@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "66f67e4c2722608552a2e9fe"
+  },
+  "email": "john.doe@example.com",
+  "password": "hashed_password",
+  "phone": 1234567890,
+  "address": "123 Main St, City, State, ZIP",
+  "is_admin": false,
+  "status": "Hoạt động",
+  "name": "John Doe"
+}]

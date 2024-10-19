@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "66f67dee2722608552a2e9fa"
+  },
+  "order_id": {
+    "$oid": "66f67a572722608552a2e9e2"
+  },
+  "shipping_address": "123 Main St, City, State, ZIP",
+  "shipping_status": "pending"
+}]

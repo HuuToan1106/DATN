@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66f679e12722608552a2e9dd"
+  },
+  "product_id": {
+    "$oid": "66f677ed2722608552a2e9d4"
+  },
+  "order_id": {
+    "$oid": "66f67a572722608552a2e9e2"
+  },
+  "quantity": 1,
+  "unit_price": 2290000
+}]

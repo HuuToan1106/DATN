@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "66f6723d2722608552a2e9af"
+  },
+  "category_id": {
+    "$oid": "66f6746b2722608552a2e9b3"
+  },
+  "name": "Nước Hoa Nam Versace Pour Homme EDT 100ml - K44",
+  "description": "Mùi hương nam tính, quyến rũ...",
+  "status": "Còn hàng",
+  "price": 1450000,
+  "quantity": 300,
+  "image": "https://nuochoaversace.net/wp-content/uploads/2018/08/Nuoc-Hoa-Versace-POUR-HOMME-eau-de-toilette-200ml-510x510.png"
+},
+{
+  "_id": {
+    "$oid": "66f6733b2722608552a2e9b0"
+  },
+  "category_id": {
+    "$oid": "66f6752a2722608552a2e9b7"
+  },
+  "name": "Nước Hoa Nam Dior Sauvage Parfum 200ml",
+  "description": "Mùi hương nam tính, quyến rũ...",
+  "status": "Còn hàng",
+  "price": 4500000,
+  "quantity": 229,
+  "image": "https://cdn.vuahanghieu.com/unsafe/0x500/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2022/04/nuoc-hoa-nam-dior-sauvage-parfum-200ml-625fa6600de23-20042022132120.jpg"
+},
+{
+  "_id": {
+    "$oid": "66f673f82722608552a2e9b1"
+  },
+  "category_id": {
+    "$oid": "66f675722722608552a2e9b9"
+  },
+  "name": "Nước Hoa Nam Calvin Klein CK Eternity For Men EDT 200ml",
+  "description": "Mùi hương nam tính, quyến rũ...",
+  "status": "Còn hàng",
+  "price": 4500000,
+  "quantity": 229,
+  "image": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2024/05/nuoc-hoa-nam-calvin-klein-ck-eternity-for-men-edt-200ml-664c14fd1410d-21052024102901.jpg"
+},
+{
+  "_id": {
+    "$oid": "66f676562722608552a2e9d3"
+  },
+  "category_id": {
+    "$oid": "66f675312722608552a2e9b8"
+  },
+  "name": "Nước Hoa Nam Armaf Club De Nuit Sillage EDP 105ml",
+  "description": "Nam tính, lịch lãm, sang trọng",
+  "status": "Còn hàng",
+  "price": 898000,
+  "quantity": 229,
+  "image": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2022/02/nuoc-hoa-nam-armaf-club-the-nuit-sillage-edp-105ml-6218489ccdd4a-25022022101020.jpg"
+},
+{
+  "_id": {
+    "$oid": "66f677ed2722608552a2e9d4"
+  },
+  "category_id": {
+    "$oid": "66f674e02722608552a2e9b4"
+  },
+  "name": "Nước hoa nam Lacoste Match Point For Men EDP",
+  "description": "Nam tính, năng động, lịch lãm",
+  "status": "Còn hàng",
+  "price": 2290000,
+  "quantity": 229,
+  "image": "https://www.thegioinuochoa.com.vn/uploads/item_product/thumb1500x500/202305/230503_200146_025871.png"
+},
+{
+  "_id": {
+    "$oid": "66f678412722608552a2e9d5"
+  },
+  "category_id": {
+    "$oid": "66f674ed2722608552a2e9b5"
+  },
+  "name": "Nước Hoa Nam Gucci Guilty Love Edition MMXXI EDT 90ML",
+  "description": "Ấm áp, nam tính, mạnh mẽ",
+  "status": "Còn hàng",
+  "price": 1790000,
+  "quantity": 229,
+  "image": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/02/nuoc-hoa-nam-gucci-guilty-love-edition-mmxxi-edt-90ml-63fda46e83166-28022023135126.jpg"
+},
+{
+  "_id": {
+    "$oid": "66f678912722608552a2e9d6"
+  },
+  "category_id": {
+    "$oid": "66f674ed2722608552a2e9b5"
+  },
+  "name": "Nước Hoa Nam Gucci Guilty Pour Homme EDP 50ml",
+  "description": "Tự tin, lôi cuốn, nam tính",
+  "status": "Còn hàng",
+  "price": 1540000,
+  "quantity": 229,
+  "image": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2021/11/nuoc-hoa-nam-gucci-guilty-pour-homme-edp-50ml-619f310ea6972-25112021134534.jpg"
+},
+{
+  "_id": {
+    "$oid": "66f682802722608552a2ea4d"
+  },
+  "category_id": {
+    "$oid": "66f675312722608552a2e9b8"
+  },
+  "name": "Nước Hoa Nam Armaf Club De Nuit Intense Man EDT 105ml",
+  "description": "Ấm áp, hiện đại, nam tính",
+  "status": "Còn hàng",
+  "price": 840000,
+  "quantity": 134,
+  "image": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2019/05/nuoc-hoa-armaf-club-de-nuit-intense-for-man-105ml-5cecf9ac49316-28052019160444.jpg"
+},
+{
+  "_id": {
+    "$oid": "66f7ac602051e23153cae6e2"
+  },
+  "category_id": {
+    "$oid": "66f675232722608552a2e9b6"
+  },
+  "name": "Nước Hoa Nam Chanel Allure Homme Sport Superleggera EDP 100ml",
+  "description": "Thanh lịch, tao nhã, tươi mát",
+  "status": "Còn hàng",
+  "price": 3750000,
+  "quantity": 134,
+  "image": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2024/09/nuoc-hoa-nam-chanel-allure-homme-sport-superleggera-edp-100ml-66da59aba91d7-06092024082355.jpg"
+}]

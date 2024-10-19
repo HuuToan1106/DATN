@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66f6746b2722608552a2e9b3"
+  },
+  "name": "Versace",
+  "position": {
+    "$numberDecimal": "1"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f674e02722608552a2e9b4"
+  },
+  "name": "Lacoste",
+  "position": {
+    "$numberDecimal": "2"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f674ed2722608552a2e9b5"
+  },
+  "name": "Gucci",
+  "position": {
+    "$numberDecimal": "3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f675232722608552a2e9b6"
+  },
+  "name": "Chanel",
+  "position": {
+    "$numberDecimal": "4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f6752a2722608552a2e9b7"
+  },
+  "name": "Dior",
+  "position": {
+    "$numberDecimal": "5"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f675312722608552a2e9b8"
+  },
+  "name": "Armaf",
+  "position": {
+    "$numberDecimal": "6"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f675722722608552a2e9b9"
+  },
+  "name": "Calvin Klein",
+  "position": {
+    "$numberDecimal": "7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6710f339952a3e4d9e2ecc68"
+  },
+  "name": "Nam",
+  "position": {
+    "$numberDecimal": "8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6710f357952a3e4d9e2ecc69"
+  },
+  "name": "Nữ",
+  "position": {
+    "$numberDecimal": "9"
+  }
+}]

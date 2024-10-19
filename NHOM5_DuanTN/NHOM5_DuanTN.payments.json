@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6710f236952a3e4d9e2ecc56"
+  },
+  "payment_method": "Momo"
+},
+{
+  "_id": {
+    "$oid": "6710f244952a3e4d9e2ecc57"
+  },
+  "payment_method": "Ngân hàng"
+}]
