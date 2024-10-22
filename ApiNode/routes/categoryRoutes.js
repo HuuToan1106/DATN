@@ -1,5 +1,5 @@
 const express = require('express');
-const Product = require('../models/Category');
+const Category = require('../models/Category');
 const router = express.Router();
 
 // Lấy tất cả danh mục
